@@ -1,0 +1,9 @@
+#summary Nice to know specialities of Picasa
+
+= Updating face information =
+
+= Directories & Files =
+
+= Data formats =
+== rect64 ==
+

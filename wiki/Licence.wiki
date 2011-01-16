@@ -1,6 +1,6 @@
 #summary Source Code Licence
 
-As I consider the GNU licence as to complex I prefer a simpler way found in another open source project:
+As I consider the GNU licence as to complex I prefer a simpler one very close to the MIT Licence:
   
 {{{
 /************************************************************************************/

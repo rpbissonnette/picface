@@ -2,8 +2,11 @@
 
 = Updating face information =
 
+When faces are edited in Picasa, the data is stored immediately in the file .picasa.ini. But when a file containing XMP information is loaded in Picasa then the information about persons is *NOT* found in .picasa.ini, it seems that this information is stored directly in the database.
+
+*Conclusion*: PicFace has to read both sources, Picasa XML and XMP information and merge them. Otherwise original XMP data (the one before importing the picture in Picasa) would be lost.
+
 = Directories & Files =
 
 = Data formats =
 == rect64 ==
-

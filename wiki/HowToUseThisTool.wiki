@@ -1,5 +1,5 @@
 #labels Featured,Phase-Deploy
-#A little help for a self explaining tool (at least so far...)
+# A little help for a self explaining tool (at least so far...)
 
 = Installation =
 
